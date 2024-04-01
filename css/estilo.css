@@ -78,3 +78,8 @@ form{
 p{
     color: #176707;
 }
+
+button{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+}
