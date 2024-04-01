@@ -70,5 +70,8 @@ h1, h2 {
     line-height: 1.5;
     }
 
-
+form{
+border: 1px solid gray;
+padding: 10px;
+}
 
