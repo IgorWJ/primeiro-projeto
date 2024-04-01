@@ -35,7 +35,7 @@ ul .link {
     /* Nesting links */
     a{
         text-decoration: none;
-        color: #e8240e;
+        color: #ffffff;
     }
 
 }
@@ -58,10 +58,15 @@ header{
 }
 
 
-h1, h2 {
-    color: #000000;
+h1, h2{
+    
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+
+h1{
+    color: #ffffff;
+}
+
 .menu{
     font-weight: bold;
 }
