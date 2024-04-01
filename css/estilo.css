@@ -1,4 +1,5 @@
 
+
 /*Este é um comentário em CSS*/
 /*
     Este é um comentário 
@@ -16,9 +17,9 @@
 */
 
 /* Tag */
-h1 {
-    color: #318021;
-}
+
+
+
 
 /* Class */
 .link {
@@ -49,5 +50,18 @@ ul .link {
     width: 80%;
     height: 100%;
     border: 2px solid #000;
-    margin: 0 auto;
+    margin: auto;
 }
+
+header{
+    background: blue;
+}
+
+
+
+
+
+
+
+
+
