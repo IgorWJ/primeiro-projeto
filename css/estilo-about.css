@@ -1,0 +1,36 @@
+header{
+    background: blue;
+}
+
+.link {
+    color: #318021;
+}
+
+ul .link {
+    display: inline;
+    margin: 0 3%;
+
+    /* Nesting links */
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+}
+
+#menu ul{
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+/* ID */
+#container {
+    width: 80%;
+    height: 100%;
+    border: 2px solid #000;
+    margin: 20px auto;
+}
+
+h1{
+    color: #ffffff;
+}
